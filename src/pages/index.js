@@ -55,9 +55,9 @@ const IndexPage = ({ data }) => (
       </a>
     </div>
     <p className="small">
-      {/* Black Friday Cyber Monday Sales!
-      <br /> */}
       Including free updates forever
+      <br />
+      New updates coming soon!
     </p>
     <PhButton />
     <div className="cover-image">
